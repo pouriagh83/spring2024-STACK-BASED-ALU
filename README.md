@@ -26,14 +26,14 @@ We have to compile our code with ModelSim and simulation them. <br>
 Its inputs and outputs are analyzed in the documentaion.
 But you can See an example below.
 ## Input
-![image](https://github.com/pouriagh83/spring2024-STACK-BASED-ALU/assets/119667579/8582a003-242c-484e-8daa-384895ae83d2) <br>
-I just push some number in the stack and pop them to see that numbers are saved in stack properly
+![Screenshot 2024-06-25 234027](https://github.com/pouriagh83/spring2024-STACK-BASED-ALU/assets/119667579/63ab7e1b-69bb-4cf3-800b-64f5f947dadc) <br>
+I just push biggest positive number and smallest negative number in the stack and calculate the sum and multiply of them.
 ## Output
-![image](https://github.com/pouriagh83/spring2024-STACK-BASED-ALU/assets/119667579/894f4bef-cb9e-45f9-96d2-b77e2b2d02b1) <br>
-![image](https://github.com/pouriagh83/spring2024-STACK-BASED-ALU/assets/119667579/8c6f9e50-a182-42b5-88ca-eae610c4013d) <br>
-As you can see the stack stores numbers properly.
+![Screenshot 2024-06-25 234239](https://github.com/pouriagh83/spring2024-STACK-BASED-ALU/assets/119667579/182de19c-5b4f-472f-ada9-c6916c65c2cc)
 
-You can refer to the documentation to see all the test benchs.
+As you can see the stack based alu calculate multiply and addition well.
+
+You can refer to the documentation to see all the test benches.
 
 ## Related Links
 I took help from the following site to implement an algorithm that converts mathematical expressions into postfix expressions.
