@@ -1,0 +1,29 @@
+{U:/DSD/Midterm/New folder/Code/STACK_BASED_ALU.v} {1 {vlog -work work {U:/DSD/Midterm/New folder/Code/STACK_BASED_ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module STACK_BASED_ALU
+
+Top level modules:
+	STACK_BASED_ALU
+
+} {} {}} {U:/DSD/Midterm/New folder/Code/EQU_SOLVER.v} {1 {vlog -work work {U:/DSD/Midterm/New folder/Code/EQU_SOLVER.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Solver
+
+Top level modules:
+	Solver
+
+} {} {}} {U:/DSD/Midterm/New folder/Code/TB_EQU_SOLVER.v} {1 {vlog -work work {U:/DSD/Midterm/New folder/Code/TB_EQU_SOLVER.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB_EQU_SOLVER
+
+Top level modules:
+	TB_EQU_SOLVER
+
+} {} {}} {U:/DSD/Midterm/New folder/Code/TB_STACK.v} {1 {vlog -work work {U:/DSD/Midterm/New folder/Code/TB_STACK.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB_STACK
+
+Top level modules:
+	TB_STACK
+
+} {} {}}

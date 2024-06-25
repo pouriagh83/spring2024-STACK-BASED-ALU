@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dU:\CA\ModelSim
+vSolver
+Z1 !s100 KA8lH7fX=Q51B?cWh;C3h2
+Z2 I?GNWzKKEUz]gRJiA16k<91
+Z3 Vk88ki6K<5k`WJ9V]4BnP53
+Z4 dU:\DSD\Midterm\New folder\Code
+Z5 w1719354481
+Z6 8U:/DSD/Midterm/New folder/Code/EQU_SOLVER.v
+Z7 FU:/DSD/Midterm/New folder/Code/EQU_SOLVER.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|U:/DSD/Midterm/New folder/Code/EQU_SOLVER.v|
+Z10 o-work work -O0
+Z11 n@solver
+Z12 !s108 1719356650.436000
+Z13 !s107 U:/DSD/Midterm/New folder/Code/EQU_SOLVER.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSTACK_BASED_ALU
+Z14 !s100 dRc6iDe`=:knRM>[DB1eM2
+Z15 I_zS1J5>0B1<AWzXc[D_0F0
+Z16 VUff_@P_NaK78jK::eC5`m3
+R4
+Z17 w1719348976
+Z18 8U:/DSD/Midterm/New folder/Code/STACK_BASED_ALU.v
+Z19 FU:/DSD/Midterm/New folder/Code/STACK_BASED_ALU.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|U:/DSD/Midterm/New folder/Code/STACK_BASED_ALU.v|
+R10
+Z21 n@s@t@a@c@k_@b@a@s@e@d_@a@l@u
+Z22 !s108 1719356650.467000
+Z23 !s107 U:/DSD/Midterm/New folder/Code/STACK_BASED_ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB_EQU_SOLVER
+Z24 !s100 iGm]fd_IHVhcz4cTCWNh[3
+Z25 Ib=Oo:0?0?RU95_4D13oX>0
+Z26 VQ2VnfD[=z^4@9jT<6:QTW3
+R4
+Z27 w1719356325
+Z28 8U:/DSD/Midterm/New folder/Code/TB_EQU_SOLVER.v
+Z29 FU:/DSD/Midterm/New folder/Code/TB_EQU_SOLVER.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|U:/DSD/Midterm/New folder/Code/TB_EQU_SOLVER.v|
+R10
+Z31 n@t@b_@e@q@u_@s@o@l@v@e@r
+!i10b 1
+!s85 0
+Z32 !s108 1719356650.498000
+Z33 !s107 U:/DSD/Midterm/New folder/Code/TB_EQU_SOLVER.v|
+!s101 -O0
+vTB_STACK
+!i10b 1
+Z34 !s100 SLU>XF`[KMg?CjX@jUB`e1
+Z35 I]gP4LajO8di[[4a9TCg<:3
+Z36 Vl3HA79chg[]66@B^B;A`D2
+R4
+Z37 w1719349671
+Z38 8U:/DSD/Midterm/New folder/Code/TB_STACK.v
+Z39 FU:/DSD/Midterm/New folder/Code/TB_STACK.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1719356650.545000
+!s107 U:/DSD/Midterm/New folder/Code/TB_STACK.v|
+Z40 !s90 -reportprogress|300|-work|work|U:/DSD/Midterm/New folder/Code/TB_STACK.v|
+!s101 -O0
+R10
+Z41 n@t@b_@s@t@a@c@k
